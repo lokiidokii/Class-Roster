@@ -1,7 +1,7 @@
 # Class-Roster
 
 <h3>About</h3>
-<p>Migrated an existing student system to a new platform using C++. <br>I was responsible for implementing the part of the system responsible for reading and manipulating the provided data.</p>
+<p>Migrated an existing student system to a new platform using C++ <br><br>I was responsible for implementing the part of the system responsible for reading and manipulating the provided data.</p>
 <p>The program contains two classes (Student and Roster). It maintains a current roster of students within a given course. Student data for the program includes student ID, first name, last name, email address, age, an array of the number of days to complete each course, and the student's degree program. The program reads a list of five students and uses function calls to manipulate data. While parsing the list of data, the program creates student objects. The entire student list is stored in one array of students called classRosterArray.</p>
 <p>Specific data-related output will be directed to the console, such as shown in the preview below.</p>
 
