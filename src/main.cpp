@@ -10,9 +10,7 @@ int main()
 
     cout << "---------------------------------------------" << endl;
     cout << "Scripting and Programming Applications - C867" << endl;
-    cout << "Date: January 17, 2023" << endl;
     cout << "Programming Language: C++" << endl;
-    cout << "WGU Student ID: 001539744" << endl;
     cout << "Programmer: Hannah R Bergman" << endl;
     cout << "---------------------------------------------" << endl << endl;
     
